@@ -23,7 +23,7 @@
 ## 👨‍💻 About Me
 
 ```js
-const babul = {
+const mofazzal = {
   name        : "Mofazzal  Hossen",
   role        : "Aspiring MERN Stack Developer",
   location    : "Bangladesh 🇧🇩",
@@ -87,8 +87,8 @@ const babul = {
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=babul0000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f0ff&icon_color=7c3aed&text_color=e2e8f0&count_private=true&include_all_commits=true" width="49%" /> -->
-<img src="https://streak-stats.demolab.com?user=babul0000&theme=tokyonight&hide_border=true&background=0D1117&ring=00f0ff&fire=f97316&currStreakLabel=00f0ff&sideLabels=e2e8f0&dates=64748b" width="49%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=mofazzal0000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f0ff&icon_color=7c3aed&text_color=e2e8f0&count_private=true&include_all_commits=true" width="49%" /> -->
+<img src="https://streak-stats.demolab.com?user=mofazzal0000&theme=tokyonight&hide_border=true&background=0D1117&ring=00f0ff&fire=f97316&currStreakLabel=00f0ff&sideLabels=e2e8f0&dates=64748b" width="49%" />
 
 </div>
 
