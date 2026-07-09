@@ -102,7 +102,7 @@ const mofazzal = {
 
 <div align="center">
 
-[![Babul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=babul0000&bg_color=0D1117&color=00f0ff&line=7c3aed&point=f97316&area=true&area_color=7c3aed&hide_border=true&radius=8)](https://github.com/babul0000)
+[![mofazzal hossen github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=babul0000&bg_color=0D1117&color=00f0ff&line=7c3aed&point=f97316&area=true&area_color=7c3aed&hide_border=true&radius=8)](https://github.com/babul0000)
 
 </div>
 
