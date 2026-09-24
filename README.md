@@ -161,9 +161,13 @@ const mofazzal = {
 
 </div>
 ---
-## 📈 Contribution Graph
+## 📊 GitHub Statistics
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mofazzal-hossen&theme=tokyo-night&hide_border=true)](https://github.com/mofazzal-hossen)
+<div align="center">
+
+<img src="./github-stats.svg" alt="Mofazzal's GitHub Statistics" />
+
+</div>
 
 
 ---
