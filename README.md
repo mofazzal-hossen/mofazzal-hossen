@@ -161,10 +161,14 @@ const mofazzal = {
 
 </div>
 ---
+## 📈 Contribution Graph
 
-# 📈 Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mofazzal-hossen&theme=tokyo-night&hide_border=true)](https://github.com/mofazzal-hossen)
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mofazzal-hossen&theme=tokyo-night&hide_border=true"
+    alt="Mofazzal's GitHub Activity Graph"
+  />
+</p>
 
 ---
 
