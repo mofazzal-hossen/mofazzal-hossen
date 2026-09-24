@@ -159,7 +159,10 @@ const mofazzal = {
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mofazzal-hossen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-</div>
+
+# 📈 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mofazzal-hossen&theme=tokyo-night&hide_border=true)](https://github.com/mofazzal-hossen)
 
 
 ---
